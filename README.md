@@ -9,7 +9,7 @@ to his excellent Futility Closet blog:
 The puzzle was sent to him by Lee Sallows, but I don't know if Lee invented it,
 and if not, who did. Let me know if you do, I'll give credit here.
 
-*Spoiler ahead!* Go see the blog post if you want to try to figure it out.
+**Spoiler ahead!** Go see the blog post if you want to try to figure it out.
 
 The answer is that each cell in the matrix corresponds to a letter (E,
 F, G, etc.) and the number in each cell is the number of times that that
